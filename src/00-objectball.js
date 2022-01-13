@@ -1,0 +1,3 @@
+const gameObject = (home, away); {
+    
+}
